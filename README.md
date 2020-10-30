@@ -7,7 +7,7 @@
 
 | No. | タイトル | サマリ|
 | :--- | :--- | :--- |
-| #1 | (WebScraiping入門)[https://qiita.com/Tom-tom-tom/items/998e8282d013fb218490] | Web上のデータを取得します |
-| #2 | (ジオコーディング入門)[https://qiita.com/Tom-tom-tom/items/e651b2afcc9c376174ae] | 住所を緯度経度の情報に直します |
-| #3| (メッシュ統計入門)[https://qiita.com/Tom-tom-tom/items/03d994fdc0a3a0998c10] | メッシュ統計の使い方について学びます |
-| #4 | (距離計算入門)[https://qiita.com/Tom-tom-tom/items/7aa6d2b7a5fea915dd93] | 企業間の距離を計算します |
+| #1 | [WebScraiping入門](https://qiita.com/Tom-tom-tom/items/998e8282d013fb218490) | Web上のデータを取得します |
+| #2 | [ジオコーディング入門](https://qiita.com/Tom-tom-tom/items/e651b2afcc9c376174ae) | 住所を緯度経度の情報に直します |
+| #3| [メッシュ統計入門](https://qiita.com/Tom-tom-tom/items/03d994fdc0a3a0998c10) | メッシュ統計の使い方について学びます |
+| #4 | [距離計算入門](https://qiita.com/Tom-tom-tom/items/7aa6d2b7a5fea915dd93) | 店舗間の距離を計算します |
